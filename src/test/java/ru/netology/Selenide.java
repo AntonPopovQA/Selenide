@@ -26,7 +26,6 @@ public class Selenide {
 
     @BeforeEach
     void setUp() {
-        Configuration.headless = true;
         driver = new ChromeDriver();
         open("http://localhost:9999");
     }
