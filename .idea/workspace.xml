@@ -4,11 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="90396ca3-3ce5-4fa7-8fdd-1dc38b53bd66" name="Changes" comment="" />
+    <list default="true" id="90396ca3-3ce5-4fa7-8fdd-1dc38b53bd66" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ru/netology/Selenide.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/netology/Selenide.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
@@ -48,10 +54,11 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_directory_selection": "C:/Users/anton/IdeaProjects/Selenide/src/main/java",
     "last_opened_file_path": "C:/Users/anton/IdeaProjects/Selenium"
   }
 }]]></component>
-  <component name="RunManager" selected="Gradle.Selenide">
+  <component name="RunManager" selected="Gradle.Selenide.shouldTestForm (1)">
     <configuration name="Selenide" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -100,8 +107,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.Selenide" />
         <item itemvalue="Gradle.Selenide.shouldTestForm (1)" />
+        <item itemvalue="Gradle.Selenide" />
       </list>
     </recent_temporary>
   </component>
