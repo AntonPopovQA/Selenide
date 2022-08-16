@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="90396ca3-3ce5-4fa7-8fdd-1dc38b53bd66" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ru/netology/Selenide.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/netology/Selenide.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +53,7 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_directory_selection&quot;: &quot;C:/Users/anton/IdeaProjects/Selenide/src/main/java&quot;,
+    &quot;last_directory_selection&quot;: &quot;C:/Users/anton/IdeaProjects/Selenide/src/test/java/ru/netology&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/anton/IdeaProjects/Selenide&quot;
   }
 }</component>
