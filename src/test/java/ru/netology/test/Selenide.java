@@ -1,4 +1,4 @@
-package ru.netology;
+package ru.netology.test;
 
 import com.codeborne.selenide.Configuration;
 import org.junit.jupiter.api.BeforeEach;
@@ -8,11 +8,10 @@ import java.time.Duration;
 
 import static com.codeborne.selenide.Condition.exactText;
 import static com.codeborne.selenide.Selenide.*;
-import static ru.netology.DataGenerator.generateDate;
+import static ru.netology.data.DataGenerator.generateDate;
 
 
 public class Selenide {
-
 
     @BeforeEach
     void setUp() {
