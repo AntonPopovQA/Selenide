@@ -3,9 +3,12 @@ package ru.netology;
 import com.codeborne.selenide.Configuration;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
+
 import java.time.Duration;
+
 import static com.codeborne.selenide.Condition.exactText;
 import static com.codeborne.selenide.Selenide.*;
+import static ru.netology.DataGenerator.generateDate;
 
 
 public class Selenide {
@@ -20,7 +23,7 @@ public class Selenide {
     @Test
     void shouldTestForm() {
         Configuration.holdBrowserOpen = true;
-        String planningDate = DataGenerator.generateDate(3);
+        String planningDate = generateDate(3);
         $("[data-test-id=city] input").setValue("Казань");
         $("[data-test-id=date] input").doubleClick();
         $("[data-test-id=date] input").sendKeys(planningDate);
